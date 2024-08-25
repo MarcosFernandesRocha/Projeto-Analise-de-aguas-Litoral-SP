@@ -1,4 +1,4 @@
-# Uma breve descrição do problema
+Uma breve descrição do problema
 
 Nesse projeto iremos analisar a qualidades das águas do litoral norte de São Paulo de acordo com a presença 
 de bactérias do gênero Enterococcus spp. Os micro-organismos do gênero Enterococcus constituem uma grande 
